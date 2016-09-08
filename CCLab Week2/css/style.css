@@ -1,0 +1,120 @@
+body{
+	top: 5vh;
+	left: 50vw;
+}
+
+#title{
+	position: relative;
+	text-align: center;
+	font-size: 50pt;
+	font-family: Courier;
+	
+}
+
+#container{
+	position: relative;
+	width: 50vw;
+	left: 25vw;
+
+}
+
+#photo {
+	position: relative;
+	width: 100%;
+	background-color: red;
+	height: 60px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	font-size: 30pt;
+	text-align: center;
+	font-family: verdana;
+	padding-top: 10px;
+	color: white;
+	cursor: pointer;
+}
+
+#film{
+	position: relative;
+	width: 100%;
+	background-color: red;
+	height: 60px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	font-size: 30pt;
+	text-align: center;
+	font-family: verdana;
+	padding-top: 10px;
+	color: white;
+	cursor: pointer;
+
+}
+
+#paint{
+	position: relative;
+	width: 100%;
+	background-color: red;
+	height: 60px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	font-size: 30pt;
+	text-align: center;
+	font-family: verdana;
+	padding-top: 10px;
+	color: white;
+	cursor: pointer;
+
+}
+
+#design{
+	position: relative;
+	width: 100%;
+	background-color: red;
+	height: 60px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	font-size: 30pt;
+	text-align: center;
+	font-family: verdana;
+	padding-top: 10px;
+	color: white;
+	cursor: pointer;
+
+}
+
+#sculpture{
+	position: relative;
+	width: 100%;
+	background-color: red;
+	height: 60px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	font-size: 30pt;
+	text-align: center;
+	font-family: verdana;
+	padding-top: 10px;
+	color: white;
+	cursor: pointer;
+
+}
+
+.thephoto{
+	background-image: url(photo.jpg); 
+}
+
+.thepaint{
+	background-image: url(paint.jpg); 
+}
+
+.thefilm{
+	background-image: url(film.gif); 
+}
+
+.thedesign{
+	background-image: url(design.jpeg); 
+}
+
+.thesculpture{
+	background-image: url(Sculpture.JPG); 
+}
+
+
